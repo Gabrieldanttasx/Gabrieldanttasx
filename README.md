@@ -48,12 +48,6 @@
 
 ---
 
-## 🐍 Snake Animation
-
-![Snake animation](https://github.com/Gabrieldanttasx/Gabrieldanttasx/blob/output/github-contribution-grid-snake.svg)
-
----
-
 ## 🎯 Objetivo
 
 Me tornar um desenvolvedor profissional, adquirindo experiência prática, participando de projetos reais e evoluindo constantemente na área de tecnologia.
