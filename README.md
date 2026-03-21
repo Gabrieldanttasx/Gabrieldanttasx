@@ -1,7 +1,7 @@
 # 👨‍💻 Felipe Gabriel
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Análise+e+Desenvolvimento+de+Sistemas;Focado+em+Python+e+Java;Desenvolvedor+em+evolução;Bem-vindo+ao+meu+perfil!">
+  <img src="https://readme-typing-svg.herokuapp.com/?color=00FF00&size=25&center=true&vCenter=true&width=600&lines=Estudante+de+Ads;Focado+em+Python+e+Java;Desenvolvedor+em+evolução;Bem-vindo+ao+meu+perfil!">
 </p>
 
 ---
